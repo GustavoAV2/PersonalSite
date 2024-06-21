@@ -1,0 +1,47 @@
+[
+    {
+        "color": "#11090A;",
+        "image": "./img/post-3/trezze-bg.jpg",
+        "date": "13",
+        "month": "Junho",
+        "title": "O rooftop mais queridinho de Blumenau",
+        "description": "Olá, leitores! No post desta semana, vamos falar sobre um lugar especial e diferente dos últimos que exploramos: o queridinho de Blumenau, o Trezze Rooftop. Com uma proposta única, este local é perfeito para uma noite de drinks com as amigas, o famoso 'girls' night out'. Oferecendo tapas deliciosos preparados por um chef argentino, o ambiente se transforma após as 21 horas, com um DJ na área interna criando uma atmosfera de balada, enquanto nas mesas externas você pode relaxar e bater um papo tranquilo.",
+        "url": "post-4.html#text-post-4"
+    },
+    {
+        "color": "#78A725",
+        "image": "./img/nojardim-bck-3.jpg",
+        "date": "17",
+        "month": "Maio",
+        "title": "Desfrute da natureza e boa comida 'No Jardim'",
+        "description": "Bem-vindos, leitores! Esta semana, vamos explorar uma pérola escondida em Pomerode, Santa Catarina: No Jardim Restô Bar. Minha experiência neste local foi simplesmente perfeita. No Jardim Restô Bar é um refúgio aconchegante, onde o charme se estende tanto para a área interna quanto para a externa. Cobertores são providenciados para os dias mais frios, a música está sempre no volume ideal, e a clientela adiciona um toque especial à atmosfera.",
+        "url": "post-3.html#text-post-3"
+    },
+    {
+        "color": "#171518",
+        "image": "./img/108_521329701.jpeg",
+        "date": "06",
+        "month": "Maio",
+        "title": "Com o passar dos anos é possível manter a qualidade do início?",
+        "description": "Quem resiste a um convite para saborear um cafézinho caprichado? Hoje, vou compartilhar com vocês um dos primeiros refúgios em Blumenau a oferecer uma experiência tão deliciosa e ao mesmo tempo instagramável: o Senhora Farinha Bakery. Desde sua inauguração em 2018, este encantador espaço tem chamado a atenção dos blumenauenses com uma culinária artesanal, repleta de sabores autênticos e, é claro, irresistíveis.",
+        "url": "post-4.html#text-post-4"
+    },
+    {
+        "color": "#F4651A;",
+        "image": "./img/poke-2.jpg",
+        "date": "15",
+        "month": "Abril",
+        "title": "Explorando os Tesouros Gastronômicos de Blumenau: Os Top 2 Pokes que Você Não Pode Perder!",
+        "description": "Prepare-se para uma jornada gastronômica única enquanto exploramos o queridinho que conquistou corações ao redor do mundo: o Poke! 💕 Se você já se rendeu aos encantos dessa delícia havaiana ou está curioso para experimentar, este é o momento perfeito para embarcar nessa aventura culinária. O Poke, famoso por sua frescura e sabor inigualáveis, viralizou no TikTok e rapidamente se tornou um favorito entre os amantes de comida de todo o mundo",
+        "url": "post-1.html#text-post-1"
+    },
+    {
+        "color": "#0D7E71",
+        "image": "./img/siteCane.png",
+        "date": "06",
+        "month": "Junho",
+        "title": "Meu site!!",
+        "description": "Oii! Eu sou Caçane Maloz, se tem interesse em saber mais sobre mim, visite: www.camaloz.com.br",
+        "url": "/"
+    }
+]
