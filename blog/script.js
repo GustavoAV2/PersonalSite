@@ -40,12 +40,12 @@ function renderPosts(posts) {
             `;
         } else {
             article.innerHTML = `
-                <div class="line" style="background: none repeat scroll 0 0 ${post.color}">
+               <div class="line" style="background: none repeat scroll 0 0 ${post.color}">
                     <!-- image -->
                     <div class="s-12 l-11 post-image">
-                        <div class="post-image-container" style="background-image: url('${post.image}');"></div>
+                        <div class="post-image-desktop" style="background-image: url('${post.image}');"></div>
                     </div>
-                
+            
                     <!-- date -->
                     <div class="s-12 l-1 post-date">
                         <p class="date">${post.date}</p>

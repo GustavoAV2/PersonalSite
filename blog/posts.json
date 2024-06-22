@@ -1,7 +1,16 @@
 [
     {
+        "color": "#60531B",
+        "title": "Hortus Bar",
+        "date": "20",
+        "month": "Junho",
+        "image": "img/post-5/hortus-bg.jpg",
+        "description": "Olá, queridos leitores! Esta semana, trago para vocês o review de um lugar que está em alta, assim como o destaque da nossa última matéria. Estou falando do Hortus Bar.",
+        "url": "post-5.html#text-post-1"
+    },
+    {
         "color": "#11090A;",
-        "image": "./img/post-3/trezze-bg.jpg",
+        "image": "img/post-3/trezze-bg.jpg",
         "date": "13",
         "month": "Junho",
         "title": "O rooftop mais queridinho de Blumenau",
@@ -37,7 +46,7 @@
     },
     {
         "color": "#0D7E71",
-        "image": "./img/siteCane.png",
+        "image": "./img/post-0/siteCane.png",
         "date": "06",
         "month": "Junho",
         "title": "Meu site!!",
