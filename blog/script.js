@@ -34,7 +34,7 @@ function renderPosts(posts) {
                     <a href="${post.url}">
                         <h2>${post.title}</h2>
                     </a>
-                    <p>${post.description}</p>
+                    <p>${post.description.substring(0, 100) + '...'}</p>
                     <a class="continue-reading" href="${post.url}">Continue lendo</a>
                 </div>
             `;
