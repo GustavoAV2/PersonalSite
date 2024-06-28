@@ -1,8 +1,16 @@
-[
+    [{
+        "color": "#60531B",
+        "title": "O melhor hamburguer do mundo!",
+        "date": "28",
+        "month": "Junho",
+        "image": "img/post-6/madero-bg.jpg",
+        "description": "O melhor hamburguer do mundo!",
+        "url": "post-6.html#text-post-1"
+    },
     {
         "color": "#60531B",
         "title": "Um bom lugar para ter uma noite de meninas",
-        "date": "20",
+        "date": "14",
         "month": "Junho",
         "image": "img/post-5/hortus-bg.jpg",
         "description": "Olá, queridos leitores! Esta semana, trago para vocês o review de um lugar que está em alta, assim como o destaque da nossa última matéria. Estou falando do Hortus Bar.",
@@ -11,8 +19,8 @@
     {
         "color": "#11090A;",
         "image": "img/post-3/trezze-bg.jpg",
-        "date": "13",
-        "month": "Junho",
+        "date": "31",
+        "month": "Maio",
         "title": "O rooftop mais queridinho de Blumenau",
         "description": "Olá, leitores! No post desta semana, vamos falar sobre um lugar especial e diferente dos últimos que exploramos: o queridinho de Blumenau, o Trezze Rooftop. Com uma proposta única, este local é perfeito para uma noite de drinks com as amigas, o famoso 'girls' night out'. Oferecendo tapas deliciosos preparados por um chef argentino, o ambiente se transforma após as 21 horas, com um DJ na área interna criando uma atmosfera de balada, enquanto nas mesas externas você pode relaxar e bater um papo tranquilo.",
         "url": "post-4.html#text-post-4"
@@ -38,7 +46,7 @@
     {
         "color": "#F4651A;",
         "image": "./img/poke-2.jpg",
-        "date": "15",
+        "date": "19",
         "month": "Abril",
         "title": "Explorando os Tesouros Gastronômicos de Blumenau: Os Top 2 Pokes que Você Não Pode Perder!",
         "description": "Prepare-se para uma jornada gastronômica única enquanto exploramos o queridinho que conquistou corações ao redor do mundo: o Poke! 💕 Se você já se rendeu aos encantos dessa delícia havaiana ou está curioso para experimentar, este é o momento perfeito para embarcar nessa aventura culinária. O Poke, famoso por sua frescura e sabor inigualáveis, viralizou no TikTok e rapidamente se tornou um favorito entre os amantes de comida de todo o mundo",
@@ -47,8 +55,8 @@
     {
         "color": "#0D7E71",
         "image": "./img/post-0/siteCane.png",
-        "date": "06",
-        "month": "Junho",
+        "date": "01",
+        "month": "Abril",
         "title": "Meu site!!",
         "description": "Oii! Eu sou Caçane Maloz, se tem interesse em saber mais sobre mim, visite: www.camaloz.com.br",
         "url": "/"
